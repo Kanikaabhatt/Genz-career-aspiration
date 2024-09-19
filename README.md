@@ -58,3 +58,7 @@ Following inferences can be drawn from the report:
 - Maximum GenZs prefers the Instructor and Expert Learning Environment.
 
 - 48216 respondents still wants to work in a firm even after 7 years of teunrity if the firm is having Good culture.
+
+- When it comes to salary 26k respondents expect it to be >50k after 3 years while 18k respondents expect it to be >151k after 5 years.
+
+- 75.5% respondents prefers the Hybrid working mode.
