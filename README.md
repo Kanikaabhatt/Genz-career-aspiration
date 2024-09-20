@@ -51,7 +51,7 @@ Following inferences can be drawn from the report:
 
 - The Male with 36866 count and that of Female with 22350 count will still work for the company that has Laid-off employees recently.
 
-- 46.84% respondents wnats to have Higher Education abroad while  21.74% will go if they are sponsered.
+- 46.84% respondents wants to have Higher Education abroad while  21.74% will go if they are sponsored.
 
 - The main Influencers of the GenZ for their career are their Parents and then comes the World Leaders.
 
