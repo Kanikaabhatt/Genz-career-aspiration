@@ -1,5 +1,5 @@
 # GenZ Career Aspiration Analysis
-
+Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=8fdccce0-f02b-4415-9446-8346307af729&autoAuth=true&ctid=0550872c-d65c-46c7-863e-1d89566905ce
 ## Problem Statement
 
 The Gen Z are facing issues in getting their desired job with respect to their aspirations and passion while the Employers are struggling to attract, retain and manage the talent in the market effectively.
